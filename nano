@@ -1,9 +1,0 @@
-## System Update
-Ran: `sudo apt update && sudo apt upgrade -y`
-Purpose: Ensure system has latest package and security updates.
-
-## Install Nginx
-Command: `sudo apt install nginx -y`
-Nginx is a high-performance web server used to serve web content and act as a reverse proxy.
-
-
