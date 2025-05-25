@@ -1,0 +1,7 @@
+Status: active
+
+To                         Action      From
+--                         ------      ----
+Nginx HTTP                 ALLOW       Anywhere                  
+Nginx HTTP (v6)            ALLOW       Anywhere (v6)             
+
