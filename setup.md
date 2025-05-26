@@ -17,4 +17,14 @@ Command: `sudo ufw enable`
 ## Replace Default Web Page
 COmmand: `sudo cp index.html /var/www/html/index.html`
 
+## System Monitoring Script
+
+This script logs system metrics like CPU load, memory usage, and disk space into a timestamped log file.
+
+## How to Use
+
+```bash
+chmod +x monitoring/monitor.sh
+./monitoring/monitor.sh
+
 
